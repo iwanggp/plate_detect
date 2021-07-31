@@ -6,5 +6,5 @@
 
 传统算法在车牌检测中的主要流程如下图所示(忽略水印)：
 
-![车牌定位](C:\Users\wanggongpeng\Desktop\车牌定位.png)
+![det_pic](images/det_plate.png)
 
